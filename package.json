@@ -1,0 +1,7 @@
+{
+  "name": "adminPage",
+  "version": "1.0.0",
+  "dependencies": {
+    "nestjs-admin": "^0.4.1"
+  }
+}
